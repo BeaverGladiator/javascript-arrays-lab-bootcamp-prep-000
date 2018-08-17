@@ -1,2 +1,2 @@
 // Add your functions and code here
-kittens = ['Milo']
+kittens = ['Milo', 'Otis', 'Garfield']
