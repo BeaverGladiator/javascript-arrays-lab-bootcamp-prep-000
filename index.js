@@ -21,4 +21,7 @@ function destructivelyRemoveFirstKitten() {
   return kittens
 }
 
-function appe
+function appendKitten(name) {
+  var newKittens = kittens.unshift(name)
+  return newKittens
+}
